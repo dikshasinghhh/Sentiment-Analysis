@@ -4,14 +4,12 @@ This project aims to perform sentiment analysis on textual data to determine whe
 <br>
 Table of Contents <br>
 1) Installation <br>
-2) Usage <br>
-3) Dataset <br>
-4) Preprocessing <br>
-5) Model Training <br>
-6) Evaluation <br>
-7) Results <br>
-8) Contributing <br>
-9) License <br>
+2) Dataset <br>
+3) Model Training  <br>
+4) Evaluation<br>
+5) Results <br>
+6)  Contributing <br>
+
 # Installation <br>
 1) Clone the repository:
 ```
